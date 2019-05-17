@@ -1,0 +1,24 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "Fileupload",
+  "main": "check file for fileupload",
+  "dependencies": {
+    "puppeteer": "^1.15.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "hello"
+  },
+  "keywords": [
+    "h"
+  ],
+  "author": "Mahadev",
+  "license": "UNLICENSED"
+}
